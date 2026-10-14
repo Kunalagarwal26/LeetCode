@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kunalagarwal26/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Kunalagarwal26/LeetCode/tree/master/0066-plus-one) |
 ## Math
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Kunalagarwal26/LeetCode/tree/master/0182-duplicate-emails) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Kunalagarwal26/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
