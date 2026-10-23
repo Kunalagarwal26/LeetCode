@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kunalagarwal26/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kunalagarwal26/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kunalagarwal26/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Kunalagarwal26/LeetCode/tree/master/0202-happy-number) |
 ## Database
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kunalagarwal26/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Kunalagarwal26/LeetCode/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/Kunalagarwal26/LeetCode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kunalagarwal26/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kunalagarwal26/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kunalagarwal26/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/Kunalagarwal26/LeetCode/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kunalagarwal26/LeetCode/tree/master/0015-3sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Kunalagarwal26/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
