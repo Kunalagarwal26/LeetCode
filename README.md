@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Kunalagarwal26/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kunalagarwal26/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Kunalagarwal26/LeetCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Kunalagarwal26/LeetCode/tree/master/0258-add-digits) |
 ## Database
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kunalagarwal26/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Kunalagarwal26/LeetCode/tree/master/0258-add-digits) |
 ## Newton's Method
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kunalagarwal26/LeetCode/tree/master/0011-container-with-most-water) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Kunalagarwal26/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
